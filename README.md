@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ZEDx007-cyber&limit=5&theme=gotham&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ZEDx007-cyber&icon=1&color=2)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=ZEDx007-cyber&color=0e75b6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
